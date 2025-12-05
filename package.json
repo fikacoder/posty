@@ -1,0 +1,7 @@
+{
+  "name": "posty",
+  "private": true,
+  "engines": {
+    "node": ">=18 <=20"
+  }
+}
